@@ -1,2 +1,2 @@
 # robot-path-planning
-Implementation of a few basic robot path planning algorithms, such as BFS and RRT-Connect.
+Implementation of some basic robot path planning algorithms, such as BFS, A* and RRT-Connect.
